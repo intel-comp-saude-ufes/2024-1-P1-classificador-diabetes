@@ -37,14 +37,14 @@ Nesse trabalho, serão utilizados os dados `diabetes_binary_health_indicators_BR
 | Education            | qual o seu nível de escolaridade                                                                                                                                 | Escala de 1 à 6               |
 | Income               | qual a sua renda familiar anual?                                                                                                                                 | Escala de 1 à 8               |
 
-📝 Nota: Para execução do projeto, os dados devem ser baixos no link disponibilizado acima e colocados na paste [`data`](./data).
+> 📝 Nota: Para execução do projeto, os dados devem ser baixos no link disponibilizado acima e colocados na paste [`data`](./data).
 
 
 ## Instalação
 
 As instruções de instalação a seguir são apresentadas para o sistema operacional [Ubuntu](https://ubuntu.com/). 
 
-⚠️ Aviso: Testado apenas no [Ubuntu 22.04](https://releases.ubuntu.com/jammy/).
+> ⚠️ Aviso: Testado apenas no [Ubuntu 22.04](https://releases.ubuntu.com/jammy/).
 
 
 ### Ambiente virtual
