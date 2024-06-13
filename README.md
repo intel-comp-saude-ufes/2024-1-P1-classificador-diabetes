@@ -75,7 +75,7 @@ Nesse trabalho, serão utilizados os dados `diabetes_binary_health_indicators_BR
 | Education            | qual o seu nível de escolaridade                                                                                                                                 | Escala de 1 à 6               |
 | Income               | qual a sua renda familiar anual?                                                                                                                                 | Escala de 1 à 8               |
 
-> 📝 Nota: Para execução do projeto, os dados devem ser baixados no link disponibilizado acima e colocados na paste [`data`](./data).
+> 📝 Nota: Para execução do projeto, os dados devem ser baixados no link disponibilizado acima e colocados na pasta [`data`](./data).
 
 
 ## Instalação
