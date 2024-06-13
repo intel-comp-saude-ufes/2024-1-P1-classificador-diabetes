@@ -1,6 +1,44 @@
 # Projeto
 
-Primeiro projeto apresentado na displina de Inteligência Computacional em Saúde ministrada pelo professor [Andre Georghton Cardoso Pacheco](https://github.com/paaatcha).
+Primeiro projeto apresentado na displina de Inteligência Computacional em Saúde ministrada pelo professor [Andre Georghton Cardoso Pacheco](https://github.com/paaatcha). Os alunos envolvidos no desenvolvimento foram:
+<ul>
+    <li>Luiz Carlos Cosmi Filho</li>
+        <a href="http://lattes.cnpq.br/7512442154273401">
+            <img src="https://img.shields.io/badge/Lattes-0A0A0A?style=for-the-badge" alt="Dev"/>
+        </a>
+        <a href="mailto:luizcarloscosmifilho@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
+        </a>
+        <a href="https://www.linkedin.com/in/luizcarloscf/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+        </a>
+        <a href="https://github.com/luizcarloscf">
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+        </a>
+    <li>Mateus Sobrinho Menines</li>
+        <a href="http://lattes.cnpq.br/0283141894444882">
+            <img src="https://img.shields.io/badge/Lattes-0A0A0A?style=for-the-badge" alt="Dev"/>
+        </a>
+        <a href="mailto:mateus.sobrinho09@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
+        </a>
+        <a href="https://www.linkedin.com/in/mateus-sobrinho-868147256/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+        </a>
+        <a href="https://github.com/MateusSMenines">
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+        </a>
+</ul>
+
+A apresentação do projeto pode ser vista no YouTube em:
+
+<!-- TODO: Trocar o link pelo link da apresentação certo -->
+<center>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eMlx5fFNoYc/0.jpg)](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+
+</center>
+
 
 ## Base de dados
 
@@ -37,7 +75,7 @@ Nesse trabalho, serão utilizados os dados `diabetes_binary_health_indicators_BR
 | Education            | qual o seu nível de escolaridade                                                                                                                                 | Escala de 1 à 6               |
 | Income               | qual a sua renda familiar anual?                                                                                                                                 | Escala de 1 à 8               |
 
-> 📝 Nota: Para execução do projeto, os dados devem ser baixos no link disponibilizado acima e colocados na paste [`data`](./data).
+> 📝 Nota: Para execução do projeto, os dados devem ser baixados no link disponibilizado acima e colocados na paste [`data`](./data).
 
 
 ## Instalação
@@ -95,4 +133,4 @@ Para abrir os Jupyter Notebooks que contém o projeto, basta utilizar o projeto 
 jupyter-lab
 ```
 
-Então, basta abrir o browser em: [http://localhost:8888/](http://localhost:8888/)
+Então, abra o browser em: [http://localhost:8888/](http://localhost:8888/)
