@@ -32,10 +32,9 @@ Primeiro projeto apresentado na displina de Inteligência Computacional em Saúd
 
 A apresentação do projeto pode ser vista no YouTube em:
 
-<!-- TODO: Trocar o link pelo link da apresentação certo -->
 <center>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eMlx5fFNoYc/0.jpg)](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NB9VbvrM_QY/0.jpg)](https://www.youtube.com/watch?v=NB9VbvrM_QY)
 
 </center>
 
