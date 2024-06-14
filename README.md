@@ -70,7 +70,7 @@ Nesse trabalho, serão utilizados os dados `diabetes_binary_health_indicators_BR
 | PhysHlth             | sobre sua saúde física, que inclui doenças e lesões físicas, por quantos dias durante os últimos 30 dias sua saúde física não foi boa?                           | Escala de 0 à 30              |
 | DiffWalk             | você tem muita dificuldade para andar ou subir escadas?                                                                                                          | Sim (1) ou não(0)             |
 | Sex                  | qual o seu sexo?                                                                                                                                                 | Feminino (0) ou masculino (1) |
-| Age                  | qual a sua idade?                                                                                                                                                | Sim (1) ou não(0)             |
+| Age                  | qual a sua idade?                                                                                                                                                | Escala de 0 à 14             |
 | Education            | qual o seu nível de escolaridade                                                                                                                                 | Escala de 1 à 6               |
 | Income               | qual a sua renda familiar anual?                                                                                                                                 | Escala de 1 à 8               |
 
