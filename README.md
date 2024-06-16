@@ -134,7 +134,7 @@ Para abrir os Jupyter Notebooks que contém o projeto, basta utilizar o projeto 
 jupyter-lab
 ```
 
-Então, abra o browser em: [http://localhost:8888/](http://localhost:8888/) e abrir o arquivo [notebooks](project.ipynb) que contém todo o código desenvoldido do projeto.
+Então, abra o browser em: [http://localhost:8888/](http://localhost:8888/). O arquivo [notebooks/project](./notebooks/project.ipynb) que contém todo o código desenvoldido do projeto.
 
 
 ## Resultados
