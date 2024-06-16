@@ -1,4 +1,4 @@
-# Projeto
+# Projeto - Classificador de Indivíduos com Diabetes
 
 Primeiro projeto apresentado na displina de Inteligência Computacional em Saúde ministrada pelo professor [Andre Georghton Cardoso Pacheco](https://github.com/paaatcha). Os alunos envolvidos no desenvolvimento foram:
 <ul>
@@ -30,14 +30,16 @@ Primeiro projeto apresentado na displina de Inteligência Computacional em Saúd
         </a>
 </ul>
 
-A apresentação do projeto pode ser vista no YouTube em:
+## Sumário
 
-<center>
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NB9VbvrM_QY/0.jpg)](https://www.youtube.com/watch?v=NB9VbvrM_QY)
-
-</center>
-
+- [Base de dados](#base-de-dados)
+- [Instalação](#instalação)
+    - [Ambiente virtual](#ambiente-virtual)
+    - [Obtendo o projeto](#obtendo-o-projeto)
+    - [Instalando as dependências](#instalando-as-dependências)
+    - [Abrindo o projeto](#abrindo-o-projeto)
+- [Resultados](#resultados)
+- [Licença](#licença)
 
 ## Base de dados
 
@@ -132,4 +134,24 @@ Para abrir os Jupyter Notebooks que contém o projeto, basta utilizar o projeto 
 jupyter-lab
 ```
 
-Então, abra o browser em: [http://localhost:8888/](http://localhost:8888/)
+Então, abra o browser em: [http://localhost:8888/](http://localhost:8888/) e abrir o arquivo [notebooks](project.ipynb) que contém todo o código desenvoldido do projeto.
+
+
+## Resultados
+
+A apresentação do projeto foi disponibiliza no YouTube no seguinte link:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NB9VbvrM_QY/0.jpg)](https://www.youtube.com/watch?v=NB9VbvrM_QY)
+
+Além disso, o relatório/artigo descrevendo o projjeto pode ser encontrado em [results/report.pdf](./results/report.pdf). Nele é realizada uma discussão do problema, trabalhos relacionados, metodologia, resultados e trabalhos futuros. As curvas ROC e PR dos melhores classificadores avaliados sobre a base de dados podem ser observadas a seguir.
+
+|Curva ROC                  |  Curva PRC                 |
+|:-------------------------:|:-------------------------:
+![Curva ROC](./results/roc_curve_balanced.png)  |  ![](./results/precision_recall_balanced.png)
+
+
+Os resultados mostram que a utilização de qualquer um dos classificadores em uma aplicação em produção apresentariam resultados semelhantes. Apesar disso, algoritmo *Extreme Gradient Boosting* apresentou um melhor desempenho quando comparado aos outros (melhor média harmônica F1, maior área sobre a curva ROC e curva PRC). Assim, poderia-se utilizar o algoritmo como um indicador ao risco de desenvolver diabetes do tipo 2, alertando ao usuário sobre o risco de desenvolver a doença com base no indicadores utilizados pela base de dados.
+
+## Licença
+
+Este projeto é licenciado sob os termos da [licença MIT](./LICENSE) e está disponível gratuitamente.
